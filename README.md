@@ -4,12 +4,9 @@
 
 2. **[Movies Made By AI Youtube Channel](https://www.youtube.com/@moviesmadebyai)** : Discover the captivating creations of our AI-powered filmmaking tool on our YouTube channel, "Movies Made By AI". Dive into a world of innovative storytelling and witness examples of the remarkable movies we've already produced.
 
-<div style="text-align:center;">
-<video width="560" height="315" controls>
-  <source src="videos/movie.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
+
+[<img src="images/image_1.png" alt="Movie" width="50%">](https://www.youtube.com/watch?v=A5aVj_2mI9E)
+
 
 ## Contact :
 If you have any questions or feedback, feel free to reach out to me:
